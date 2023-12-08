@@ -1,0 +1,2 @@
+# OpenTelemetrySample
+Playing with OpenTelemetry
